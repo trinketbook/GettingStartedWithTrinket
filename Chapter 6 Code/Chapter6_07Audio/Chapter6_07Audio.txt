@@ -1,0 +1,6 @@
+To get the programs used for the Trinket Audio Player
+for Getting Started with Trinket, go to
+https://github.com/adafruit/Adafruit_TinyFlash/
+and look in the Examples folder.
+
+Mike Barela, 2014

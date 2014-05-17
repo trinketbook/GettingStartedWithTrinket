@@ -1,0 +1,23 @@
+The following third-party libraries are believed to work with Trinket:
+
+* SendOnlySoftwareSerial--by Nick Gammon http://forum.arduino.cc/index.php?topic=112013.0
+* Adafruit_SoftServo-- https://github.com/adafruit/Adafruit_SoftServo[https://github.com/adafruit/Adafruit_SoftServo] with a tutorial at http://learn.adafruit.com/trinket-gemma-servo-control/code
+* TinyWireM-- https://github.com/adafruit/TinyWireM
+* TinyWireS-- https://github.com/rambo/TinyWire
+* TinyLiquidCrystal-- https://github.com/adafruit/TinyLiquidCrystal
+* Adafruit_Neopixel-- https://github.com/adafruit/Adafruit_NeoPixel
+* LastLED-- https://github.com/FastLED/FastLED
+* Adafruit_LEDBackpack-- https://github.com/adafruit/Adafruit-LED-Backpack-Library]
+* Adafruit_GFX-- https://github.com/adafruit/Adafruit-GFX-Library
+* TinyAdafruit_RGBLCDShield-- http://learn.adafruit.com/trinket-rgb-shield-clock/overview 
+* TinyDHT-- https://github.com/adafruit/TinyDHT
+* TrinketKeyboard-- https://github.com/adafruit/Adafruit-Trinket-USB/
+* TrinketHidCombo-- https://github.com/adafruit/Adafruit-Trinket-USB/
+* TinyRTClib-- https://github.com/adafruit/TinyRTCLib
+* Adafruit_TinyFlash-- https://github.com/adafruit/Adafruit_TinyFlash/
+* TinyNarcoleptic-- http://forums.adafruit.com/viewtopic.php?f=52&t=47423
+* Servo8Bit-- https://github.com/solderspot/Servo8Bit
+* tinySPI--by Jack Christensen https://github.com/JChristensen/tinySPI
+* Arduino-UsiSerial--by Frank Zhao https://github.com/frank26080115/Arduino-UsiSerial-Library/
+* VirtualWire-- http://www.airspayce.com/mikem/arduino/VirtualWire/
+* TinyNewPing--by Matthew http://projectsfromtech.blogspot.com/2014/01/i2c-hc-sr04-sonar-module-attiny85-i2c.html 
