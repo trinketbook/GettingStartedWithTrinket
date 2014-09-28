@@ -1,10 +1,11 @@
 /* Trinket Animal - Sound testing module
 
-   Works on Arduino Uno, Leonardo, Mega, etc.
+   PLEASE NOTE: Works on Arduino Uno, Leonardo, Mega, etc.
    This can work on Trinket with right pin changes and an FTDI Friend
    
-   From Chapter 6 of Getting Started with Trinket by Mike Barela, 2014  
+   From Appendix A of Getting Started with Trinket by Mike Barela, 2014  
    Version 1.0 - Initial Version
+   Version 1.01 - Move to Appendix A for final release
 */
 #define SPEAKER 11 // Piezo Speaker pin (positive lead)
                    // For Trinket, change to 2
