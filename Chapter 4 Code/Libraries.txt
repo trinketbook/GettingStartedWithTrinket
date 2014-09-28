@@ -21,3 +21,4 @@ The following third-party libraries are believed to work with Trinket:
 * Arduino-UsiSerial--by Frank Zhao https://github.com/frank26080115/Arduino-UsiSerial-Library/
 * VirtualWire-- http://www.airspayce.com/mikem/arduino/VirtualWire/
 * TinyNewPing--by Matthew http://projectsfromtech.blogspot.com/2014/01/i2c-hc-sr04-sonar-module-attiny85-i2c.html 
+* arduino-nrf24l01--by Abe Connelly http://bit.ly/nrf24l01_library
